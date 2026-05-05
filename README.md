@@ -34,7 +34,7 @@ Este repositório foi criado para desenvolver
 
  ---
  ## 👤 Autor(es) 
- - Leticia Alves Ferreira
+ - **Leticia Alves Ferreira**
 
  ---
  ### 🔎 Observações
